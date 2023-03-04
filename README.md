@@ -1,7 +1,30 @@
 <h2 align="center">السلام عليكم <h2>
 <p align="center">
-  <img src="handrathej.png" />
+  <img src="https://github.com/whojoestar" />
 </p>
+------
+
+![handrathej site](image/thum.png)
+👉🏻[View Live Preview](https://handrathej.site/)
+------
+## Reporting Issues
+
+We use GitHub Issues as the official bug tracker for the thomson Template. Please Search [existing issues](https://github.com/themefisher/thomson/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/whojoestar/whojoestar.github.io/issues).
+
+<!-- support -->
+## Technical Support or Questions (Paid)
+
+If you have questions or need help integrating the product please [contact us](https://instagram.com/handrathej) instead of opening an issue.
+
+<!-- licence -->
+## License
+
+Copyright (c) 2021 - Present, Designed & Developed by [Handra Thej](https://instagram.com/handrathej)
+
+**Code License:** Released under the [MIT](https://github.com/whojoestar/whojoestar.github.io/LICENSE) license.
+
+**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
 
 ------
 ### Connect with me ☎️
